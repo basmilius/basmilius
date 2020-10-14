@@ -17,7 +17,7 @@ these projects are mostly created by me for my own projects, and I decided to ma
 - **[Bas Tools](https://github.com/basmilius/bas-tools)**: Plugin for the IntelliJ Platform.
 - **[Columba](https://github.com/basmilius/columba)**: Base framework features for PHP projects.
 - **[LatteUI](https://github.com/basmilius/latte-ui)**: UI Library for Vue.js 2.0.
-- **[TypeWriter](https://github.com/basmilius/typewriter)**: Base WordPress framewok. (coming soon!)
+- **[TypeWriter](https://github.com/basmilius/typewriter)**: Base WordPress framework. (coming soon!)
 - **[Weather icons](https://github.com/basmilius/weather-icons)**: Animated SVG weather icons.
 - **[Vuex Composables](https://github.com/basmilius/vuex-composables)**: Vuex compose functions
   to use actions, getters and mutations.
