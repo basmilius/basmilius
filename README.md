@@ -15,11 +15,11 @@ Want to work with me or just chat about all things related to programming, send 
 ### Open source projects
 I have some open source projects for you to check out (and use in your own projects of course!),
 these projects are mostly created by me for my own projects, and I decided to make them public.
+- **[Weather icons](https://github.com/basmilius/weather-icons)**: Animated SVG weather icons.
 - **[Bas Tools](https://github.com/basmilius/bas-tools)**: Plugin for the IntelliJ Platform.
-- **[Columba](https://github.com/basmilius/columba)**: Base framework features for PHP projects.
+- **[Raxos](https://github.com/basmilius/raxos)**: Base framework features for PHP projects.
 - **[LatteUI](https://github.com/basmilius/latte-ui)**: UI Library for Vue.js 2.0.
 - **[TypeWriter](https://github.com/basmilius/typewriter)**: Base WordPress framework. (coming soon!)
-- **[Weather icons](https://github.com/basmilius/weather-icons)**: Animated SVG weather icons.
 - **[Vuex Composables](https://github.com/basmilius/vuex-composables)**: Vuex compose functions
   to use actions, getters and mutations.
   
