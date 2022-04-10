@@ -19,7 +19,6 @@ these projects are mostly created by me for my own projects, and I decided to ma
 - **[Visual Effects](https://github.com/basmilius/visual-effects)**: A few visual effects to use on websites.
 - **[Bas Tools](https://github.com/basmilius/bas-tools)**: Plugin for the IntelliJ Platform.
 - **[Raxos](https://github.com/basmilius/raxos)**: Base framework features for PHP projects.
-- **[LatteUI](https://github.com/basmilius/latte-ui)**: UI Library for Vue.js 2.0.
 - **[TypeWriter](https://github.com/glybe/typewriter)**: Base WordPress framework.
   
 ### Visit my website for more
