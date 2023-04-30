@@ -1,6 +1,6 @@
 # Hi! 👋🏽
 
-My name is Bas, a full stack developer, 26 years old and live in a small town called Groenlo in The
+My name is Bas, a full stack developer, 27 years old and live in a small town called Groenlo in The
 Netherlands.
 
 ### Get in touch
