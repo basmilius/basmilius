@@ -16,8 +16,8 @@ I have some open source projects for you to check out (and use in your own proje
 these projects are mostly created by me for my own projects, and I decided to make them public.
 - **[Meteocons](https://github.com/basmilius/weather-icons)**: Animated SVG weather icons.
 - **[Raxos](https://github.com/basmilius/raxos)**: Base framework features for PHP projects.
-- **[Flux](https://github.com/basmilius/flux)**: Animated SVG weather icons.
-- **[Website](https://github.com/basmilius/website)**: Animated SVG weather icons.
+- **[Flux](https://github.com/basmilius/flux)**: Vue.js UI component library.
+- **[Website](https://github.com/basmilius/website)**: Personal website.
 - **[Visual Effects](https://github.com/basmilius/visual-effects)**: A few visual effects to use on websites.
 - **[TypeWriter](https://github.com/glybe/typewriter)**: Base WordPress framework.
   
