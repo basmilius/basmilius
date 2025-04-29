@@ -1,6 +1,6 @@
 # Hi! 👋🏽
 
-My name is Bas, a full stack developer, 28 years old and live in a small town called Groenlo in The
+My name is Bas, a full stack developer, 29 years old and live in a small town called Groenlo in The
 Netherlands.
 
 ### Get in touch
@@ -19,9 +19,7 @@ these projects are mostly created by me for my own projects, and I decided to ma
 - **[Flux](https://github.com/basmilius/flux)**: Vue.js UI component library.
 - **[Website](https://github.com/basmilius/website)**: Personal website.
 - **[Visual Effects](https://github.com/basmilius/visual-effects)**: A few visual effects to use on websites.
-- **[HTTP Client](https://github.com/basmilius/http-client)**: Http client that I created for personal Vue projects. It forces you to use DTO's.
-- **[Utils](https://github.com/basmilius/utils)**: Various utilities that are commonly used throughout personal Vue-related projects.
-- **[Vite Vue Preset](https://github.com/basmilius/vite-vue-preset)**: A preset plugin for Vite for Vue-based projects.
+- **[Node / Bun Packages](https://github.com/basmilius/packages)**: Various packages used in Node / Bun / Browser environments.
 - **[VitePress Plugin Example](https://github.com/basmilius/vitepress-plugin-example)**: VitePress plugin to show vue component examples from a file.
 - **[VitePress Plugin Render](https://github.com/basmilius/vitepress-plugin-render)**: VitePress plugin to render vue components from a file.
   
