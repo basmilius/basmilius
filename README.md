@@ -14,6 +14,7 @@ Want to work with me or just chat about all things related to programming, send 
 ### Open source projects
 I have some open source projects for you to check out (and use in your own projects of course!),
 these projects are mostly created by me for my own projects, and I decided to make them public.
+- **[FlowBits](https://github.com/basmilius/homey-flowbits)**: Home automation app for Homey Pro.
 - **[Meteocons](https://github.com/basmilius/weather-icons)**: Animated SVG weather icons.
 - **[Raxos](https://github.com/basmilius/raxos)**: Base framework features for PHP projects.
 - **[Flux](https://github.com/basmilius/flux)**: Vue.js UI component library.
