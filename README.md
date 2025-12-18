@@ -18,6 +18,7 @@ Want to work with me or just chat about all things related to programming, send 
 - **[FlowBits](https://github.com/basmilius/homey-flowbits)**: Home automation app for Homey Pro (Mini) / SHS.
 - **[Lists](https://github.com/basmilius/homey-listri)**: Advanced list widget for Homey Pro (Mini) / SHS.
 - **[Apple](https://github.com/basmilius/homey-apple)**: WIP app for adding Apple TV and HomePod (Mini) to Homey Pro (Mini) / SHS.
+- **[SAJ R5](https://github.com/basmilius/homey-sajr5)**: Add SAJ R5 AIO3 inverters to Homey Pro (Mini) / SHS.
 
 ### Open source projects
 
