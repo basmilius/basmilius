@@ -4,8 +4,6 @@ I'm a full-stack developer from Groenlo, The Netherlands. I enjoy building clean
 
 I work across web, backend, home automation, and developer tooling.
 
----
-
 ## 🔗 Get in touch
 
 - 🌍 Website: **[bas.dev](https://bas.dev)**
@@ -13,8 +11,6 @@ I work across web, backend, home automation, and developer tooling.
 - 💼 LinkedIn: **[Bas Milius](https://www.linkedin.com/in/basmilius/)**
 - 📸 Instagram: **[@basmilius](https://instagram.com/basmilius)**
 - 🐦 Twitter/X: **[@basmilius](https://twitter.com/basmilius)**
-
----
 
 ## 🏠 Homey Apps
 
@@ -24,8 +20,6 @@ Home automation apps for Homey Pro (Mini) / SHS:
 - **[Apple TV & HomePod](https://github.com/basmilius/homey-apple)** — Control Apple TV and HomePod devices  
 - **[Lists](https://github.com/basmilius/homey-listri)** — Advanced list widget  
 - **[SAJ R5](https://github.com/basmilius/homey-sajr5)** — SAJ R5 AIO3 inverter integration  
-
----
 
 ## 🚀 Open Source Projects
 
@@ -39,8 +33,6 @@ Open-source tools and libraries I use in my own projects:
 - **[Packages](https://github.com/basmilius/packages)** — Node / Bun / Browser packages  
 - **[VitePress Plugin Example](https://github.com/basmilius/vitepress-plugin-example)** — Component example plugin  
 - **[VitePress Plugin Render](https://github.com/basmilius/vitepress-plugin-render)** — Vue renderer plugin  
-
----
 
 ## 🌐 Portfolio
 
