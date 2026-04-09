@@ -27,11 +27,11 @@ Home automation apps for Homey Pro (Mini) / SHS:
 
 Open-source tools and libraries I use in my own projects:
 
-- **[Meteocons](https://github.com/basmilius/weather-icons)** — Animated SVG weather icons  
+- **[Meteocons](https://github.com/basmilius/meteocons)** — Animated SVG/Lottie weather icons  
 - **[Flux](https://github.com/basmilius/flux)** — Vue.js UI component library  
 - **[Raxos](https://github.com/basmilius/raxos)** — PHP base framework  
 - **[Website](https://github.com/basmilius/website)** — Personal website source  
-- **[Visual Effects](https://github.com/basmilius/visual-effects)** — Web visual effects  
+- **[Visual Effects](https://github.com/basmilius/sparkle)** — Visual effects for the web
 - **[Packages](https://github.com/basmilius/packages)** — Node / Bun / Browser packages  
 - **[VitePress Plugin Example](https://github.com/basmilius/vitepress-plugin-example)** — Component example plugin  
 - **[VitePress Plugin Render](https://github.com/basmilius/vitepress-plugin-render)** — Vue renderer plugin  
