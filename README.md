@@ -18,8 +18,9 @@ Home automation apps for Homey Pro (Mini) / SHS:
 
 - **[FlowBits](https://github.com/basmilius/homey-flowbits)** — Advanced flow utilities for Homey
 - **[Apple TV & HomePod](https://github.com/basmilius/homey-apple)** — Control Apple TV and HomePod devices
-- **[Claude](https://github.com/basmilius/homey-claude)** — Use Claude in your Homey-flows.
+- **[Claude](https://github.com/basmilius/homey-claude)** — Use Claude in your Homey-flows
 - **[NL Alert](https://github.com/basmilius/homey-nlalert)** — Be aware when an NL Alert affects your location
+- **[Changelogs](https://github.com/basmilius/homey-changelogs)** — Track updates of your installed Homey apps and get notified with changelogs
 - **[Lists](https://github.com/basmilius/homey-listri)** — Advanced list widget
 - **[SAJ R5](https://github.com/basmilius/homey-sajr5)** — SAJ R5 AIO3 inverter integration
 
