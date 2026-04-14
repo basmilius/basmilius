@@ -1,44 +1,33 @@
-# Hi, I'm Bas 👋
+# Hey, I'm Bas 👋
 
-I'm a full-stack developer from Groenlo, The Netherlands. I enjoy building clean, efficient software and open-source tools that solve real-world problems.
+I'm a full-stack developer from the Netherlands. Most of my time goes into building open-source tools, smart home integrations, and the occasional product from scratch. I also do design, which tends to show in everything I make.
 
-I work across web, backend, home automation, and developer tooling.
+Lately, I've been leaning into AI-assisted development with tools like Claude Code to move faster on complex projects. My [apple-protocols](https://github.com/basmilius/apple-protocols) libraries are a good example, reverse-engineering Apple's media protocols is hard, and AI tooling helped me iterate through the protocol layer significantly faster.
 
-## 🔗 Get in touch
+## Open source
 
-- 🌍 Website: **[bas.dev](https://bas.dev)**
-- 📧 Email: **bas@mili.us**
-- 💼 LinkedIn: **[Bas Milius](https://www.linkedin.com/in/basmilius/)**
-- 📸 Instagram: **[@basmilius](https://instagram.com/basmilius)**
-- 🐦 Twitter/X: **[@basmilius](https://twitter.com/basmilius)**
+- **[Meteocons](https://github.com/basmilius/weather-icons)**, animated SVG weather icons, used by thousands of developers.
+- **[Flux](https://github.com/basmilius/flux)**, a Vue 3 component library I built and use in production.
 
-## 🏠 Homey Apps
+## Homey apps
 
-Home automation apps for Homey Pro (Mini) / SHS:
+I build and maintain apps for the Homey smart home platform:
 
-- **[FlowBits](https://github.com/basmilius/homey-flowbits)** — Advanced flow utilities for Homey
-- **[Apple TV & HomePod](https://github.com/basmilius/homey-apple)** — Control Apple TV and HomePod devices
-- **[Claude](https://github.com/basmilius/homey-claude)** — Use Claude in your Homey-flows
-- **[NL Alert](https://github.com/basmilius/homey-nlalert)** — Be aware when an NL Alert affects your location
-- **[Changelogs](https://github.com/basmilius/homey-changelogs)** — Track updates of your installed Homey apps and get notified with changelogs
-- **[Lists](https://github.com/basmilius/homey-listri)** — Advanced list widget
-- **[SAJ R5](https://github.com/basmilius/homey-sajr5)** — SAJ R5 AIO3 inverter integration
+- **[Apple TV & HomePod](https://github.com/basmilius/homey-apple)**, control and automate your Apple media devices.
+- **[FlowBits](https://github.com/basmilius/homey-flowbits)**, advanced flow utilities for Homey.
+- **[Lists](https://github.com/basmilius/homey-listri)**, shopping lists, tasks, and notes on your dashboard.
+- **[SAJ R5](https://github.com/basmilius/homey-sajr5)**, SAJ R5 AIO3 solar inverter integration.
+- **[NL Alert](https://github.com/basmilius/homey-nlalert)**, be aware when an NL Alert affects your location.
+- **[Claude](https://github.com/basmilius/homey-claude)**, use Claude in your Homey flows.
 
-## 🚀 Open Source Projects
+## Other work
 
-Open-source tools and libraries I use in my own projects:
+**[Passly](https://passly.nl)**, a ticketing platform I'm building as the founder. The codebase is private, but it's where most of my full-stack and product work happens day to day.
 
-- **[Meteocons](https://github.com/basmilius/meteocons)** — Animated SVG/Lottie weather icons  
-- **[Flux](https://github.com/basmilius/flux)** — Vue.js UI component library  
-- **[Raxos](https://github.com/basmilius/raxos)** — PHP base framework  
-- **[Website](https://github.com/basmilius/website)** — Personal website source  
-- **[Sparkle](https://github.com/basmilius/sparkle)** — Visual effects for the web
-- **[Packages](https://github.com/basmilius/packages)** — Node / Bun / Browser packages  
-- **[VitePress Plugin Example](https://github.com/basmilius/vitepress-plugin-example)** — Component example plugin  
-- **[VitePress Plugin Render](https://github.com/basmilius/vitepress-plugin-render)** — Vue renderer plugin  
+## Stack
 
-## 🌐 Portfolio
+TypeScript · Vue · PHP · Node · Bun, and whatever gets the job done.
 
-More projects and experiments on my website:
+## Links
 
-👉 **https://bas.dev**
+[bas.dev](https://bas.dev) · [LinkedIn](https://www.linkedin.com/in/basmilius/) · [Instagram](https://instagram.com/basmilius)
